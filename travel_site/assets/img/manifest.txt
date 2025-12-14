@@ -1,0 +1,252 @@
+================================================================================
+VOYAGELY TRAVEL EXPLORER - MEDIA ASSETS MANIFEST
+Asset Download & Installation Guide
+================================================================================
+
+LOCATION: Place all files in /travel_site/assets/img/
+
+================================================================================
+REQUIRED VIDEO FILES
+================================================================================
+
+FILE: hero.mp4
+TYPE: MP4 Video
+SIZE: ~5-10 MB (recommended)
+DURATION: 10-30 seconds (looping)
+USAGE: Homepage hero section background
+SOURCE: Pexels Videos
+DOWNLOAD: https://www.pexels.com/search/videos/travel/
+
+INSTRUCTIONS:
+1. Visit: https://www.pexels.com/search/videos/travel/
+2. Look for videos with: travel, destination, nature, landscape
+3. Download a video in MP4 format (landscape orientation, 1920x1080 preferred)
+4. Rename to: hero.mp4
+5. Place in: /travel_site/assets/img/
+
+ALTERNATIVE SOURCES:
+- Coverr: https://coverr.co/stock-video-footage/travel
+- Pixabay Videos: https://pixabay.com/videos/search/travel/
+
+---
+
+FILE: food-loop.mp4
+TYPE: MP4 Video
+SIZE: ~5-10 MB
+DURATION: 10-30 seconds (looping)
+USAGE: Footer background strip (parallax effect)
+SOURCE: Pexels Videos
+DOWNLOAD: https://www.pexels.com/search/videos/food/
+
+INSTRUCTIONS:
+1. Visit: https://www.pexels.com/search/videos/food/
+2. Look for food/culinary content videos
+3. Download a video in MP4 format
+4. Rename to: food-loop.mp4
+5. Place in: /travel_site/assets/img/
+
+ALTERNATIVE: Use any looping video from Coverr: https://coverr.co/stock-video-footage/loop
+
+================================================================================
+REQUIRED IMAGE FILES
+================================================================================
+
+FILE: hero-poster.jpg
+TYPE: JPEG Image
+DIMENSIONS: 1920x1080 (or larger)
+USAGE: Fallback poster image for video (shown before video loads)
+SOURCE: Unsplash
+DOWNLOAD: https://unsplash.com/s/photos/travel
+
+INSTRUCTIONS:
+1. Visit: https://unsplash.com/s/photos/travel
+2. Search for: "travel destination" or "landscape"
+3. Download a high-quality image (preferably 1920x1080 or larger)
+4. Rename to: hero-poster.jpg
+5. Place in: /travel_site/assets/img/
+
+RECOMMENDATION: Choose a scenic travel/destination image (beach, mountain, city skyline)
+
+---
+
+FILE: sahara.jpg
+TYPE: JPEG Image
+DIMENSIONS: 800x600 minimum
+USAGE: Package card image for Sahara Desert Adventure package
+SOURCE: Pexels
+DOWNLOAD: https://www.pexels.com/search/sahara%20desert/
+
+INSTRUCTIONS:
+1. Visit: https://www.pexels.com/search/sahara%20desert/
+2. Choose a high-quality desert landscape image
+3. Download in JPG format
+4. Rename to: sahara.jpg
+5. Place in: /travel_site/assets/img/
+
+ALTERNATIVE SEARCH TERMS: "desert", "dunes", "sandy landscape"
+
+---
+
+FILE: mediterranean.jpg
+TYPE: JPEG Image
+DIMENSIONS: 800x600 minimum
+USAGE: Package card image for Mediterranean Coast Escape package
+SOURCE: Unsplash
+DOWNLOAD: https://unsplash.com/s/photos/mediterranean-beach
+
+INSTRUCTIONS:
+1. Visit: https://unsplash.com/s/photos/mediterranean-beach
+2. Choose a beautiful beach image (Mediterranean style)
+3. Download in JPG format
+4. Rename to: mediterranean.jpg
+5. Place in: /travel_site/assets/img/
+
+ALTERNATIVE SEARCH TERMS: "Greece beach", "coastal scenery", "turquoise water"
+
+---
+
+FILE: alps.jpg
+TYPE: JPEG Image
+DIMENSIONS: 800x600 minimum
+USAGE: Package card image for Alpine Mountain Retreat package
+SOURCE: Pexels
+DOWNLOAD: https://www.pexels.com/search/mountains/
+
+INSTRUCTIONS:
+1. Visit: https://www.pexels.com/search/mountains/
+2. Look for Alpine mountain scenery (snow-capped peaks preferred)
+3. Download in JPG format
+4. Rename to: alps.jpg
+5. Place in: /travel_site/assets/img/
+
+ALTERNATIVE SEARCH TERMS: "Alps", "snow mountain", "mountain peaks", "hiking landscape"
+
+---
+
+FILE: food-loop.jpg
+TYPE: JPEG Image
+DIMENSIONS: 1920x600 (wide, for footer)
+USAGE: Footer background image (decorative)
+SOURCE: Pexels
+DOWNLOAD: https://www.pexels.com/search/food/
+
+INSTRUCTIONS:
+1. Visit: https://www.pexels.com/search/food/
+2. Choose a food/culinary image
+3. Download in JPG format
+4. Resize to approximately 1920x600 pixels (optional)
+5. Rename to: food-loop.jpg
+6. Place in: /travel_site/assets/img/
+
+NOTE: This image is used with low opacity in footer, so any quality is acceptable
+
+================================================================================
+OPTIONAL ADDITIONAL IMAGES
+================================================================================
+
+These images can be added for more variety but are not required:
+
+- hotel.jpg (for package cards, Pexels hotel search)
+- beach.jpg (alternate beach image, Unsplash)
+- city.jpg (for urban destinations, Pexels)
+- nature.jpg (for outdoor packages, Pexels)
+- adventure.jpg (for adventure packages, Unsplash)
+
+================================================================================
+DOWNLOAD QUICK REFERENCE
+================================================================================
+
+PEXELS (Images & Videos):
+- Website: https://www.pexels.com
+- Search: Use search bar for specific content
+- License: CC0 (free to use)
+- No signup required
+
+UNSPLASH (High-quality Images):
+- Website: https://unsplash.com
+- Search: Use search bar for specific content
+- License: Unsplash License (free to use)
+- No signup required (signup optional)
+
+COVERR (Background Videos):
+- Website: https://coverr.co
+- Search: Use search bar for specific content
+- License: Free (with credit optional)
+- No signup required
+
+PIXABAY (Images & Videos):
+- Website: https://pixabay.com
+- Search: Use search bar
+- License: Pixabay License (free to use)
+- No signup required
+
+================================================================================
+TOTAL REQUIRED FILES: 7
+
+✅ hero.mp4 (video)
+✅ food-loop.mp4 (video)
+✅ hero-poster.jpg (image)
+✅ sahara.jpg (image)
+✅ mediterranean.jpg (image)
+✅ alps.jpg (image)
+✅ food-loop.jpg (image)
+
+================================================================================
+TOTAL FILE SIZE ESTIMATE
+
+Videos (2 files):     ~15-20 MB
+Images (5 files):     ~5-10 MB
+TOTAL:                ~20-30 MB
+
+All files fit comfortably in a typical web hosting account.
+
+================================================================================
+SETUP CHECKLIST
+
+[ ] Create /travel_site/assets/img/ folder (if not exists)
+[ ] Download hero.mp4 from Pexels
+[ ] Download food-loop.mp4 from Pexels
+[ ] Download hero-poster.jpg from Unsplash
+[ ] Download sahara.jpg from Pexels
+[ ] Download mediterranean.jpg from Unsplash
+[ ] Download alps.jpg from Pexels
+[ ] Download food-loop.jpg from Pexels
+[ ] Rename all files to match names above exactly
+[ ] Place all files in /travel_site/assets/img/
+[ ] Verify files are accessible in browser
+
+================================================================================
+TROUBLESHOOTING
+
+Problem: Images not loading
+Solution: Check filename spelling matches exactly (case-sensitive on Linux/Mac)
+
+Problem: Video not playing
+Solution: 
+1. Ensure hero.mp4 is MP4 format
+2. Check file size (should be under 20 MB)
+3. Try different video from Pexels
+
+Problem: Poster image appears stretched
+Solution: Download a 16:9 aspect ratio image (1920x1080 or similar)
+
+Problem: Download links broken
+Solution: Search Pexels/Unsplash directly using keywords in this manifest
+
+================================================================================
+LEGAL & ATTRIBUTION
+
+All resources downloaded from:
+- Pexels (CC0 License - free to use, no attribution required)
+- Unsplash (Unsplash License - free to use, attribution optional)
+- Coverr (Free to use, attribution optional)
+- Pixabay (Pixabay License - free to use, no attribution required)
+
+These are free resources suitable for student projects, commercial projects, and any use.
+No purchase or special permission needed.
+
+================================================================================
+CREATED: 2025
+PROJECT: Voyagely Travel Explorer - Student Edition
+VERSION: 1.0
+================================================================================
